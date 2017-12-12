@@ -1,0 +1,29 @@
+body {
+    background-color: #e6f9ff;
+}
+header {
+    background: #ff4b1f;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1fddff, #ff4b1f);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1fddff, #ff4b1f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 150px;
+    padding: 4px;
+    text-align: center;
+    font-family: 'Volkhov', serif;
+    color: white;
+    font-size: 2em;
+}                
+#wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: red;
+    padding: 32px;
+    
+}
+
+#search {
+    background-color: #1fddff;
+    height: 75px;
+    text-align: center;
+    padding:15px 25px;
+}
+
